@@ -1,0 +1,6 @@
+body {
+  margin: 0;
+}
+.router-link-active-exact {
+  background: rgba(37, 86, 209, 0.612);
+}
